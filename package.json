@@ -1,0 +1,19 @@
+{
+  "name": "ininin-dater",
+  "version": "1.0.0",
+  "description": "日期工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yy-ininin/ininin-dater.git"
+  },
+  "author": "ininin.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yy-ininin/ininin-dater/issues"
+  },
+  "homepage": "https://github.com/yy-ininin/ininin-dater#readme"
+}
